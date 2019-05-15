@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/triumphant-youths-c/precache-manifest.e48796d49052e04006f801132a7fc697.js"
+  "/triumphant-youths-c/precache-manifest.feb19ce2ebc242dcc0717fe565b0cf55.js"
 );
 
 workbox.clientsClaim();

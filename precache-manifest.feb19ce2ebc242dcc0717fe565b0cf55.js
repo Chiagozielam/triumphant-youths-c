@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/triumphant-youths-c/static/media/forgiveness.96ff6d3d.jpg"
   },
   {
-    "revision": "2d83493dff7205628657",
-    "url": "/triumphant-youths-c/static/css/main.91a7db6c.chunk.css"
+    "revision": "45bf5a904873090ef76a",
+    "url": "/triumphant-youths-c/static/css/main.27a4872b.chunk.css"
   },
   {
     "revision": "cf79c057385586db1e3e",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/triumphant-youths-c/static/media/joshwh2.248a8b2d.jpg"
   },
   {
-    "revision": "2d83493dff7205628657",
-    "url": "/triumphant-youths-c/static/js/main.2d83493d.chunk.js"
+    "revision": "45bf5a904873090ef76a",
+    "url": "/triumphant-youths-c/static/js/main.45bf5a90.chunk.js"
   },
   {
     "revision": "d85fb6ef092173a4c72761e4140ad04b",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/triumphant-youths-c/static/media/WH_2017.e0ea49f8.pdf"
   },
   {
-    "revision": "251fafa2b04ea95bba404feb5648d48f",
+    "revision": "401ca89d3ab4242bbfa7874f749d3a78",
     "url": "/triumphant-youths-c/index.html"
   }
 ];
